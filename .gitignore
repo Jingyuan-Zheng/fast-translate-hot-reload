@@ -1,0 +1,11 @@
+/dist/
+__pycache__/
+*.py[cod]
+schemas/gschemas.compiled
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+*~
+.DS_Store
