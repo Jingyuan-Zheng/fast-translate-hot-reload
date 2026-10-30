@@ -6,6 +6,12 @@ A GNOME Shell translation extension derived from [tazztone/translate-assistant](
 
 This is an independently maintained community modification. Licensed under MIT; see [CREDITS.md](CREDITS.md) for attribution.
 
+## Demo
+
+The centered floating window displays the English source alongside its Chinese translation:
+
+![Fast Translate floating translation demo](docs/images/floating-translation.png)
+
 ## Usage
 
 | Action | Default shortcut | Source |

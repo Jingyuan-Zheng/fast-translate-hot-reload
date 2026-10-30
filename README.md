@@ -6,6 +6,12 @@ GNOME Shell 翻译扩展，基于 [tazztone/translate-assistant](https://github.
 
 这是社区修改版，与上游项目独立维护。许可证为 MIT；作者与来源见 [CREDITS.md](CREDITS.md)。
 
+## 演示
+
+居中悬浮翻译窗口，同时展示英文原文和中文译文：
+
+![Fast Translate 悬浮翻译演示](docs/images/floating-translation.png)
+
 ## 功能与快捷键
 
 | 操作 | 默认快捷键 | 内容来源 |
